@@ -32,7 +32,7 @@ metadata:
     k8s.io/display-name: Node.js 10
     maintainer: SoftwareCollections.org <sclorg@redhat.com>
     name: kabanero/nodejs-express
-  namespace: dev-bh  
+    namespace: dev-bh  
     openshift.io/expose-services: 8080:http
     openshift.io/tags: builder,nodejs,nodejs10
     redhat.com/build-host: cpt-1008.osbs.prod.upshift.rdu2.redhat.com
